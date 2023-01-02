@@ -1,5 +1,5 @@
 <h1 align= "center"> 
-  Aulas de python 
+  Aulas de python 🐍
 </h1> 
 
 <div align="center">
@@ -10,50 +10,69 @@
 
 <div>
   <p>Repositório das aulas de python feitas por mim na FATEC-Jundiaí. O conteudo foi voltado para alunos iniciantes em programação, onde foi abordado os conceitos de lógica de programção, aprendendo os principais comandos da linguagem e desenvolvendo seu primeiro programa: o jogo da forca.</p>
+  
+  
+  <b><p align= "">Os conteúdos aborados durante as aulas foram:</p></b>
 </div>
 
-<details>
-  <summary>Aula 1</summary>
-</details>
+<h2> Aula 1 </h2>
+<ul>
+  <li>História do python</li>
+  <li>Lógica de programação</li>
+  <li>Primero programa: Hello world!</li>
+</ul>
 
-<details>
-  <summary>Aula 2</summary>
-</details>
+<h2> Aula 2 </h2>
+<ul>
+  <li>Tipos de dados (int, str, float, bool)</li>
+  <li>Operadores: numéricos, comparação e lógicos</li>
+  <li>Input</li>
+  <li>Comentários</li>
+</ul>
 
-<details>
-  <summary>Aula 3</summary>
-</details>
+<h2> Aula 3 </h2>
+<ul>
+  <li>Listas</li>
+  <li>Strings - funções e formatação</li>
+</ul>
 
-<details>
-  <summary>Aula 4</summary>
-</details>
+<h2> Aula 4 </h2>
+<ul>
+  <li>Tuplas</li>
+  <li>Dicionários</li>
+  <li>Sets</li>
+</ul>
 
-<details>
-  <summary>Aula 5</summary>
-</details>
+<h2> Aula 5 </h2>
+<ul>
+  <li>If, Elif , Else</li>
+</ul>
 
-<details>
-  <summary>Aula 6</summary>
-</details>
+<h2> Aula 6 </h2>
+<ul>
+  <li>For</li>
+  <li>While</li>
+</ul>
 
-<details>
-  <summary>Aula 7</summary>
-</details>
+<h2> Aula 7 </h2>
+<ul>
+  <li>Try e except</li>
+  <li>Funções</li>
+</ul>
 
-<details>
-  <summary>Aula 8</summary>
-</details>
+<h2> Aula 8 </h2>
+<ul>
+  <li>Módulos e pacotes</li>
+  <li>Arquivos</li>
+</ul>
 
-<details>
-  <summary>Aula 9</summary>
-</details>
-
-<details>
-  <summary>Aula 10</summary>
-</details>
+<h2> Aulas 9 e 10 </h2>
+<ul>
+  <li>Projeto jogo da forca</li>
+</ul>
 
 <hr>
 
 <div align="center">
-  <p>Desenvolvido com 💙 por Luis Loschi </p>
+  Desenvolvido por Luis Loschi </p>
 </div>
