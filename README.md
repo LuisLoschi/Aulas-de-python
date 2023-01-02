@@ -9,10 +9,10 @@
 <br>
 
 <div>
-  <p>Repositório das aulas de python feitas por mim na FATEC-Jundiaí. O conteudo foi voltado para alunos iniciantes em programação, onde foi abordado os conceitos de lógica de programção, aprendendo os principais comandos da linguagem e desenvolvendo seu primeiro programa: o jogo da forca.</p>
+  <p>Repositório das aulas de python feitas por mim na FATEC-Jundiaí. O conteúdo foi voltado para alunos iniciantes em programação, onde foi abordado os conceitos de lógica de programação, aprendendo os principais comandos da linguagem e desenvolvendo seu primeiro programa: o jogo da forca.</p>
   
   
-  <b><p align= "">Os conteúdos aborados durante as aulas foram:</p></b>
+  <b><p align= "">Os conteúdos abordados durante as aulas foram:</p></b>
 </div>
 
 <h2> Aula 1 </h2>
